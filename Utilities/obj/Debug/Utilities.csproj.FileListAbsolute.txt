@@ -1,0 +1,13 @@
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\bin\Debug\Utilities.exe.config
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\bin\Debug\Utilities.exe
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\bin\Debug\Utilities.pdb
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\obj\Debug\Utilities.Form1.resources
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\obj\Debug\Utilities.csproj.GenerateResource.Cache
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\obj\Debug\Utilities.exe
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\obj\Debug\Utilities.pdb
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\bin\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\harvey\Documents\Visual Studio 2017\Projects\C# - WinForms\Utilities\Utilities\bin\Debug\MaterialSkin.dll
